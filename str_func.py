@@ -1,6 +1,7 @@
+# внесены изменения!
 def get_upper_case(word: str):
     """
-    makes a string in capital letters
+    accepts a string, returns a string with all capital letters
     :param word: str
     :return: str
     """
@@ -15,3 +16,4 @@ def get_title(word: str):
     :return: str
     """
     return word.title()
+
